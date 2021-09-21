@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![preview Long Haul](/preview.jpg)
 
 Long Haul is a minimal jekyll theme built with SASS / GULP / BROWSERSYNC / AUTOPREFIXER and focuses on long form blog posts. It is meant to be used as a starting point for a jekyll blog/website.
@@ -58,3 +59,6 @@ If you'd like your header to be larger then you can use the option below in you 
 ## License
 
 This is [MIT](LICENSE) with no added caveats, so feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.
+=======
+# CodeReport.github.io
+>>>>>>> 74c1463010379391b8ad77a5e75eb57f5ed350f9
